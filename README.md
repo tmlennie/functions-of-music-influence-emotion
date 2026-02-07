@@ -7,6 +7,7 @@ This repository contains data and analyses related to study
 The study is organised into two experiments:
 
 Experiment 1:
+
 Experiment 2:
 
 The R scripts will replicate all analyses in the manuscript.
