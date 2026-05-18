@@ -4,6 +4,8 @@ This repository contains data and analyses related to study
 
 Lennie, T. M. (2026). Functional uses of music influence musically induced emotional episodes: An exploratory study of goal-directed mechanisms. Musicae Scientiae, 0(0). https://doi.org/10.1177/10298649261419801
 
+Avalible Green-OpenAccess: https://www.researchgate.net/publication/400940914_Functional_uses_of_music_influence_musically_induced_emotional_episodes_An_exploratory_study_of_goal-directed_mechanisms 
+
 The study is organised into two experiments:
 
 Experiment 1: pre-validation of a collection of musical functions and musical stimuli.
